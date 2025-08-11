@@ -38,21 +38,37 @@ Stabilizasyon için **EMA yumuşatma** yöntemi kullanır ve şerit çizimleri i
 
 lane-detection/
 │
+
 ├─ src/
+
 │  ├─ main.py       # Ana şerit tespit kodu
+
 │
+
 ├─ data/
+
 │  ├─ yol1.mp4                # Örnek video (küçük boyutlu veya link)
+
 │  ├─ yol3.mp4                # Örnek video (küçük boyutlu veya link)
+
 │
+
 ├─ screenshots/
+
 │  ├─ sample_frame.png        # Çıktı görseli
+
 |  ├─ sample_frame.png        # Çıktı görseli
+
 |
+
 ├─ test_output/
+
 │  ├─ output1.mp4        # Çıktı videosu
+
 |  ├─ output2.mp4        # Çıktı videosu
 
 ├─ README.md
+
 └─ .gitignore
+
 
